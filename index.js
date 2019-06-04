@@ -1,1 +1,1 @@
-function iterativeLog(){}
+function iterativeLog(array){}
