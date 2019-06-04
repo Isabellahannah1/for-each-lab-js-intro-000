@@ -9,3 +9,5 @@ function iterate(callback){
   primeNumbers.forEach(callback);
   return primeNumbers;
 }
+
+function 
