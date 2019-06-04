@@ -10,4 +10,6 @@ function iterate(callback){
   return primeNumbers;
 }
 
-function doToArray(array, callback){}
+function doToArray(array, callback){
+  
+}
