@@ -5,5 +5,5 @@ function iterativeLog(array) {
 }
 
 function iterate(callback){
-  array.forEachconsole.log("Hello Izzy");
+  array.forEach(callback);
 }
