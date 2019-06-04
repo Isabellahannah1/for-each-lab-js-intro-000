@@ -5,7 +5,7 @@ function iterativeLog(array) {
 }
 
 function iterate(callback){
-  var primeNumbers = [ 2, 3, 5, 7, 11];
+  var primeNumbers = [2, 3, 5, 7, 11];
   primeNumbers.forEach(callback);
   return primeNumbers;
 }
